@@ -1,5 +1,15 @@
 # credpal
 
+# Screenshot
+<table>
+<tr>
+<th><img alt="Screenshot_20250531_221712.png" src="Screenshot_20250531_221712.png" width="300"/></th>
+
+<tr>
+<th>Home Screen</th>
+</tr>
+</table>
+
 A new Flutter project.
 
 ## Getting Started
